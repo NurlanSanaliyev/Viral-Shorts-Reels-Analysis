@@ -20,4 +20,4 @@ Explored whar niches, music types and metrics lead to the most views and engagem
 - Jupyter
 
 ### Link to notebook
-[Viral_Shorts_Reels_Analysis.ipynb](Viral_Shorts_Reels_Analysis.ipynb)
+[Viral Shorts & Reels Performance Analysis.ipynb](Viral_Shorts_Reels_Analysis.ipynb)
