@@ -18,6 +18,3 @@ Explored whar niches, music types and metrics lead to the most views and engagem
 ### Technologies
 - Python, pandas, matplotlib, seaborn
 - Jupyter
-
-### Link to notebook
-[Viral Shorts & Reels Performance Analysis.ipynb](Viral Shorts & Reels Performance Analysis.ipynb)
